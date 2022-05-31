@@ -1,5 +1,4 @@
-# AppDado
-Anotações Kotlin
+#Anotações Kotlin
 
 Use uma instrução when como uma forma compacta de executar o código com base na comparação de um valor
 
